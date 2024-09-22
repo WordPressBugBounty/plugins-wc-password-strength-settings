@@ -1,0 +1,1 @@
+# plugins-wc-password-strength-settings
